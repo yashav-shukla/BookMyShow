@@ -1,0 +1,39 @@
+ body {
+    background-color: #191818;
+ }
+
+
+.container {
+    width:80%;
+    margin: 30px auto;
+    padding: 30px 30px 0px 20px;
+    background-color: #191818;
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 5px 5px 5px rgba(199,207,224,0.6);
+
+}
+
+
+.select_movie_component { 
+    flex-grow: 1;
+ }
+
+ .wrapper { 
+    display: flex;
+    flex-grow: 0;
+    overflow: visible;
+    margin-top: 20px;
+ }
+
+ .search_input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    position: relative;
+    
+ }
+ 

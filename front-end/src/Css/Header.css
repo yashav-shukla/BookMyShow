@@ -1,0 +1,80 @@
+.header { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    
+}
+
+.search-container {
+    flex-grow: 1;
+    margin: 0 20px;
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    width: 100%;
+    max-width: 500px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    outline: none;
+    font-size: 14px;
+}
+
+.city-dropdown {
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.city-select {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.actions-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-right: 15px;
+   
+}
+
+.help-support {
+    text-decoration: none;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.help-support:hover {
+    text-decoration: none;
+}
+
+
+/* Updated button styles */
+.book_now_button_container {
+    display: flex;
+    align-items: center;
+}
+
+.book_now_button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(180, 0, 0);
+}
+
+.book_now_button:hover {
+    background-color: rgb(180, 0, 0);
+    color: #000;
+    box-shadow: 0 0 10px white;
+}
