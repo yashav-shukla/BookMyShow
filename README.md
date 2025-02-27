@@ -130,7 +130,7 @@ Content-Type: application/json
 ### 🚀 Developed by Yashav Shuklsa
 ### 📧 Contact : yashavshukla1@gmail.com
 ---
-### Live Preview : [  ]
+### Live Preview : [ https://bookmyshooww.vercel.app/ ]
 ---
 ### **📜** **License** : This project is licensed under the MIT License.
 
