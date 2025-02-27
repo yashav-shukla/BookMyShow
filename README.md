@@ -7,7 +7,7 @@
 A **full-stack movie booking application** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. Users can browse available movies, select show timings, choose seats, and book tickets easily.
 
 ---
-![Home Page](bookmyshow.png)
+![Home Page](front-end/bookmyshow.png)
 
 ## 🚀 Features
 
