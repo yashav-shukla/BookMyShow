@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fron-end/logo.svg" width="200">
+  <img src="front-end/logo.svg" width="200">
 
 <p align="center"><i>Your one-stop destination for booking movies! 🎬🍿</i></p></p><hr>
 
